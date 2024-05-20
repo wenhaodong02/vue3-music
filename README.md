@@ -2,11 +2,7 @@
 
 #### 前言
 
-开头还是感谢 [网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)提供的API练练手。
-
-目前已完成音乐网站的大部分功能，部分细节有可能需要优化调整，如果你有更好的想法实现或者发现了错误、抑或代码优化建议等等，可以留言，我会回复。你的订阅，就是我的动力。
-
-欢迎 **watch** / **star** / **fork** ,一键三连。 :clap: 
+[网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)提供的API。
 
  **Vue2.x版本** ：[基于网易云音乐API实现PC端音乐网站](https://github.com/trtst/vue_pc_music)
 
@@ -47,10 +43,6 @@ Axios /
 Vuex /
 Vite
 
-#### 问题交流群
-欢迎加群一起讨论：233725017
-
-![加群：233725017](img/20220217112332.jpg)
 
 #### 视频展示
 
